@@ -4,10 +4,6 @@
 
 Deploy serverless containers onto the cloud from your command line
 
-## Screencast
-
-[![fargate CLI screencast](http://img.youtube.com/vi/P6iY6ovhbfc/0.jpg)](http://www.youtube.com/watch?v=P6iY6ovhbfc)
-
 ## Usage
 
 ### Configuration
